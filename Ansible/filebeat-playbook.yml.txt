@@ -1,6 +1,6 @@
 ---
 - name: installing and launching filebeat
-  hosts: rlk
+  hosts: elk
   become: yes
   tasks:
 
